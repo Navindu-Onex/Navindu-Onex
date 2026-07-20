@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navindu-Onex&label=Profile views&color=0e75b6&style=flat" alt="Navindu-Onex" /> </p>
 
-- 🔭 I'm currently working on **I'm currently working on full-stack applications, exploring cybersecurity, and building my skills in Linux, networking, and secure software development.**
+- 🔭 I'm currently working on on full-stack applications, exploring cybersecurity, and building my skills in Linux, networking, and secure software development.**
 
 - 🌱 I'm currently learning **I'm currently learning Cybersecurity, Full-Stack Development, Linux, and Networking.**
 
