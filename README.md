@@ -6,13 +6,13 @@
 
 - 🔭 I'm currently working on on full-stack applications, exploring cybersecurity, and building my skills in Linux, networking, and secure software development.**
 
-- 🌱 I'm currently learning **I'm currently learning Cybersecurity, Full-Stack Development, Linux, and Networking.**
+- 🌱 I'm currently learning Cybersecurity, Full-Stack Development, Linux, and Networking.
 
-- 👯 I'm looking to collaborate on **I'm looking to collaborate on open-source projects, web applications, and cybersecurity-related projects.**
+- 👯 I'm looking to collaborate on on open-source projects, web applications, and cybersecurity-related projects.
 
-- 🤝 I'm looking for help with **I'm looking for help with improving my software development skills, cybersecurity knowledge, and building real-world projects.**
+- 🤝 I'm looking for help with improving my software development skills, cybersecurity knowledge, and building real-world projects.
 
-- 💬 Ask me about **Ask me about Full-Stack Development, Cybersecurity, Linux, Networking, and Electronics Projects.**
+- 💬 Ask me about Full-Stack Development, Cybersecurity, Linux, Networking, and Electronics Projects.
 
 - 📫 How to reach me **navindugunathunga@gmail.com**
 
