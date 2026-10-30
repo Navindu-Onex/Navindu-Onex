@@ -1,8 +1,6 @@
 # Hi 👋, I'm Navindu Nishen
 
-### ECS Student ⚡ | Developer 💻 | Cybersecurity Learner 🔐
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navindu-Onex&label=Profile views&color=0e75b6&style=flat" alt="Navindu-Onex" /> </p>
+### Electronics & Computer Science Student ⚡ | Developer 💻 | Cybersecurity Learner 🔐
 
 - 🔭 I'm currently working on on full-stack applications, exploring cybersecurity, and building my skills in Linux, networking, and secure software development.**
 
