@@ -1,28 +1,169 @@
-# Hi 👋, I'm Navindu Nishen
+<!-- ANIMATED HEADER -->
+<div align="center">
 
-### Electronics & Computer Science Student ⚡ | Developer 💻 | Cybersecurity Learner 🔐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B35,100:00F5A0&height=200&section=header&text=NAVINDU%20NISHEN&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20ELECTRONICS&descAlignY=60&descSize=14" width="100%" />
 
-- 🔭 I'm currently working on on full-stack applications, exploring cybersecurity, and building my skills in Linux, networking, and secure software development.**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Electronics+%26+Computer+Science+Undergraduate;Full-Stack+Developer;Cybersecurity+Enthusiast;Exploring+Systems%2C+Networks+%26+Security;Building+Things+That+Matter." alt="Typing SVG" />
+</a>
 
-- 🌱 I'm currently learning Cybersecurity, Full-Stack Development, Linux, and Networking.
+<br/>
 
-- 👯 I'm looking to collaborate on on open-source projects, web applications, and cybersecurity-related projects.
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5A0)](https://github.com/Navindu-Onex)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:navindugunathunga@gmail.com)
 
-- 🤝 I'm looking for help with improving my software development skills, cybersecurity knowledge, and building real-world projects.
+</div>
 
-- 💬 Ask me about Full-Stack Development, Cybersecurity, Linux, Networking, and Electronics Projects.
+---
 
-- 📫 How to reach me **navindugunathunga@gmail.com**
+## `whoami`
 
-- ⚡ Fun fact **Cybersecurity isn't about wearing a hoodie in a dark room... it's about drinking coffee while debugging.**
+```bash
+┌──(navindu㉿developer)-[~]
+└─$ whoami
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Navindu-Onex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Navindu-Onex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Navindu Nishen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Navindu Nishen" height="30" width="40" /></a>
-<a href="https://fb.com/Navindu Nishen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Navindu Nishen" height="30" width="40" /></a>
-</p>
+Electronics & Computer Science Undergraduate
+Full-Stack Developer
+Cybersecurity Learner
+Electronics Enthusiast
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+I'm an Electronics and Computer Science undergraduate at the **University of Kelaniya, Sri Lanka**, passionate about understanding technology from the hardware level to the application layer.
 
+My interests span three interconnected domains:
+
+- 🔐 **Cybersecurity:** Understanding vulnerabilities, securing web applications, penetration testing, Linux, and networking.
+- 💻 **Software Development:** Building full-stack applications, designing APIs, and developing practical software solutions.
+- ⚡ **Electronics:** Exploring digital electronics, embedded systems, circuits, and hardware-based projects.
+
+I enjoy learning how systems work, finding ways to improve them, and building things that solve real-world problems.
+
+---
+
+## 🔐 Cybersecurity
+
+<img align="right" width="120" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+My cybersecurity interests include:
+
+- Web Application Security
+- Penetration Testing
+- Network Security
+- Linux & System Administration
+- Vulnerability Assessment
+- Ethical Hacking
+
+**Tools & Technologies**
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-111827?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111827?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-111827?style=flat-square&logo=nmap&logoColor=4EAA25)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+
+---
+
+## 💻 Software Development
+
+<img align="right" width="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Interested in developing scalable applications, clean backend architectures, and modern user interfaces.
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
+
+---
+
+## ⚡ Electronics & Hardware
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
+</div>
+
+Interested in the connection between hardware and software.
+
+- Digital Electronics & Logic Circuits
+- Microcontrollers & Embedded Systems
+- Electronic Circuit Design
+- Sensors & Actuators
+- Hardware–Software Integration
+- Robotics & Automation
+
+---
+
+## 🧰 Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma,vercel,supabase" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Navindu-Onex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navindu-Onex&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navindu-Onex&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Navindu-Onex/Navindu-Onex/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Navindu-Onex">
+<img src="https://img.shields.io/badge/GitHub-Navindu--Onex-00F5A0?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:navindugunathunga@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-00F5A0?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Understand the system. Build the solution. Secure the future."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:101B35,100:050816&height=100&section=footer" width="100%" />
+
+</div>
