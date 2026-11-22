@@ -1,128 +1,159 @@
 <!-- ======================================= -->
-<!--              HEADER                    -->
+<!--                HEADER                   -->
 <!-- ======================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0B0F14&text=NAVINDU%20NISHEN&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=ELECTRONICS%20%7C%20SOFTWARE%20%7C%20CYBERSECURITY&descSize=13&descAlignY=60&animation=fadeIn&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0B0F14,50:18181B,100:1C2128&text=NAVINDU%20NISHEN&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=ELECTRONICS%20%C2%B7%20SOFTWARE%20%C2%B7%20CYBERSECURITY&descSize=14&descColor=AAB8C5&descAlignY=62&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=8FA3B8&center=true&vCenter=true&width=700&height=40&repeat=true&lines=%3E+Electronics+%26+Computer+Science+Undergraduate;%3E+Full-Stack+Software+Developer;%3E+Cybersecurity+Enthusiast;%3E+Bridging+Hardware+%26+Software" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=AAB8C5&center=true&vCenter=true&width=650&lines=Electronics+%26+Computer+Science+Undergraduate;Full-Stack+Software+Developer;Cybersecurity+Enthusiast;Exploring+the+Intersection+of+Hardware+%26+Software" />
-
-<br/><br/>
-
 <a href="https://github.com/Navindu-Onex">
-<img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=flat-square&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-Navindu--Onex-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 <a href="mailto:navindugunathunga@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-18181B?style=flat-square&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Email-Get_in_touch-18181B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Navindu-Onex&style=for-the-badge&color=1C2128&label=PROFILE+VIEWS&labelColor=18181B" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8FA3B8" />
 
-## About Me
+<!-- ======================================= -->
+<!--                 ABOUT                   -->
+<!-- ======================================= -->
 
-I'm an undergraduate pursuing a Bachelor of Science (Honours) in Electronics and Computer Science (BSc Hons) at the University of Kelaniya, Sri Lanka.**, interested in building software, understanding computer systems, and exploring technology from hardware to application security.
+## `> about_me`
 
-My technical interests revolve around three main areas:
+I'm an undergraduate pursuing a **BSc (Honours) in Electronics and Computer Science** at the **University of Kelaniya, Sri Lanka**. I enjoy building software, understanding how computer systems work, and exploring technology from hardware all the way up to application security.
 
-- **Cybersecurity** — Web application security, penetration testing, Linux, networking, and vulnerability analysis.
-- **Software Engineering** — Full-stack development, backend architecture, APIs, and scalable applications.
-- **Electronics** — Digital electronics, embedded systems, circuit design, and hardware-software integration.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-I enjoy solving technical problems, experimenting with new technologies, and continuously developing my engineering skills through practical projects.
+**🔐 Cybersecurity**
 
----
+Web app security, penetration testing, Linux, networking and vulnerability analysis.
 
-## 01 / Cybersecurity & Information Security
+</td>
+<td width="33%" valign="top">
 
-<img align="right" width="115" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+**💻 Software Engineering**
 
-Focused on understanding how systems work, identifying security weaknesses, and developing secure applications.
+Full-stack development, backend architecture, APIs and scalable applications.
 
-**Areas of Interest**
+</td>
+<td width="33%" valign="top">
 
-- Web Application Security
-- Ethical Hacking & Penetration Testing
-- Network Security
-- Linux & System Administration
-- Vulnerability Assessment
-- Secure Software Development
+**⚡ Electronics**
 
-**Tools & Technologies**
+Digital electronics, embedded systems, circuit design and hardware–software integration.
 
-<p>
-<img src="https://img.shields.io/badge/Linux-1C2128?style=flat-square&logo=linux&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Kali_Linux-1C2128?style=flat-square&logo=kalilinux&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Burp_Suite-1C2128?style=flat-square&logo=burpsuite&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Nmap-1C2128?style=flat-square&logo=nmap&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Python-1C2128?style=flat-square&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Bash-1C2128?style=flat-square&logo=gnubash&logoColor=FFFFFF" />
-</p>
+</td>
+</tr>
+</table>
 
----
+> I enjoy solving technical problems, experimenting with new technologies, and growing my engineering skills through practical projects.
 
-## 02 / Software Engineering & Development
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8FA3B8" />
 
-<img align="right" width="115" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- ======================================= -->
+<!--               CYBERSECURITY             -->
+<!-- ======================================= -->
 
-Interested in designing and developing practical applications with modern technologies, maintainable architecture, and clean user interfaces.
+## `01 / cybersecurity_&_infosec`
 
-**Programming Languages**
+Focused on understanding how systems work, finding security weaknesses, and building secure applications.
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php&theme=dark" />
-</p>
-
-**Frontend Development**
+| Areas of Interest | Focus |
+| :--- | :--- |
+| 🌐 Web Application Security | OWASP-style vulnerability analysis |
+| 🕵️ Ethical Hacking & Pentesting | Recon, exploitation, reporting |
+| 📡 Network Security | Scanning, traffic analysis |
+| 🐧 Linux & System Administration | Hardening, scripting, tooling |
+| 🛡️ Secure Software Development | Security-first coding practices |
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
+<img src="https://img.shields.io/badge/Linux-1C2128?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Kali_Linux-1C2128?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Burp_Suite-1C2128?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Nmap-1C2128?style=for-the-badge&logo=nmap&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Python-1C2128?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Bash-1C2128?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" />
 </p>
 
-**Backend & Databases**
+<!-- ======================================= -->
+<!--               SOFTWARE                  -->
+<!-- ======================================= -->
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres&theme=dark" />
-</p>
+## `02 / software_engineering`
 
-**Development Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,vercel,supabase&theme=dark" />
-</p>
-
----
-
-## 03 / Electronics & Embedded Systems
+Designing practical applications with modern technologies, maintainable architecture and clean user interfaces.
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+
+| | |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" /> |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres&theme=dark" /> |
+| **Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,vercel,supabase&theme=dark" /> |
+
 </div>
 
-Interested in understanding the relationship between physical hardware and software systems.
+<!-- ======================================= -->
+<!--               ELECTRONICS               -->
+<!-- ======================================= -->
 
-**Areas of Interest**
+## `03 / electronics_&_embedded`
 
-- Digital Electronics & Logic Design
-- Electronic Circuit Design
-- Microcontrollers & Embedded Systems
-- Sensors & Actuators
-- Hardware–Software Integration
-- Robotics & Automation
-- Marketing 
+Exploring the relationship between physical hardware and software systems.
 
----
+<div align="center">
 
-## 04 / GitHub Statistics
+| Digital Electronics | Circuit Design | Embedded Systems |
+| :---: | :---: | :---: |
+| Logic design | Analog & digital circuits | Microcontrollers |
+
+| Sensors & Actuators | HW–SW Integration | Robotics & Automation |
+| :---: | :---: | :---: |
+| Data acquisition | Firmware ↔ software | Control systems |
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python&theme=dark" />
+
+</div>
+
+<!-- ======================================= -->
+<!--             FEATURED PROJECTS           -->
+<!-- ======================================= -->
+
+<!--
+## `04 / featured_projects`
+
+Uncomment this block and replace the repo names with your own pinned projects.
+
+<div align="center">
+<a href="https://github.com/Navindu-Onex/REPO_NAME_1">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Navindu-Onex&repo=REPO_NAME_1&hide_border=true&bg_color=0B0F14&title_color=FFFFFF&text_color=AAB8C5&icon_color=8FA3B8" />
+</a>
+<a href="https://github.com/Navindu-Onex/REPO_NAME_2">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Navindu-Onex&repo=REPO_NAME_2&hide_border=true&bg_color=0B0F14&title_color=FFFFFF&text_color=AAB8C5&icon_color=8FA3B8" />
+</a>
+</div>
+-->
+
+<!-- ======================================= -->
+<!--               GITHUB STATS              -->
+<!-- ======================================= -->
+
+## `04 / github_statistics`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Navindu-Onex&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=FFFFFF&text_color=AAB8C5&icon_color=8FA3B8&rank_icon=github" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navindu-Onex&layout=compact&hide_border=true&bg_color=0B0F14&title_color=FFFFFF&text_color=AAB8C5" />
 
 <br/><br/>
@@ -131,36 +162,41 @@ Interested in understanding the relationship between physical hardware and softw
 
 </div>
 
----
+<!-- ======================================= -->
+<!--             CONTRIBUTION ACTIVITY       -->
+<!-- ======================================= -->
 
-## 05 / Contribution Activity
+## `05 / contribution_activity`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Navindu-Onex/Navindu-Onex/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Navindu-Onex&bg_color=0B0F14&color=AAB8C5&line=8FA3B8&point=FFFFFF&area=true&area_color=8FA3B8&hide_border=true&radius=8&custom_title=Contribution%20Graph" />
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Navindu-Onex/Navindu-Onex/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
----
+<!-- ======================================= -->
+<!--                 CONNECT                 -->
+<!-- ======================================= -->
 
-## 06 / Connect With Me
+## `06 / connect_with_me`
 
 <div align="center">
 
 <a href="https://github.com/Navindu-Onex">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-
 <a href="mailto:navindugunathunga@gmail.com">
 <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
 
-**Building systems. Understanding technology. Securing the future.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1500&color=AAB8C5&center=true&vCenter=true&width=600&lines=Building+systems.;Understanding+technology.;Securing+the+future." />
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0B0F14&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B0F14,50:18181B,100:1C2128&section=footer&animation=twinkling" />
 
 </div>
